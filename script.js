@@ -10,5 +10,5 @@ else if ( ranNum > 60 && ranNum<= 80 ){
     alert(`Your love score is ${ranNum}%, You are going good in your relation`);
 }
 else{
-    alert(`Your love score is ${ranNum}%`);
+    alert(`Your love score is ${ranNum}%`); 
 }
